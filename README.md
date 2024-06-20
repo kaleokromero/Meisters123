@@ -5,10 +5,8 @@
 2. Write a Java program to remove all white spaces from a string without using replace().
 3. Write a Java program to swap two numbers without using the third variable.
 
-
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Important !!
+Results.png has a screenshot of the terminal after running the program.
 
 ## Folder Structure
 
